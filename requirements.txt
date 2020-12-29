@@ -1,0 +1,9 @@
+scikit-image
+scikit-learn
+glob3
+pandas
+matplotlib
+requests==2.20.0
+torchvision==0.1.8
+future
+Pillow
